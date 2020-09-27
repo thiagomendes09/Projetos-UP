@@ -1,0 +1,6 @@
+PRECO	BEBIDA
+16,50	Picadinho de carne
+3,00	Pepsi
+25000,00	jojo jeje
+Observacao : vinho ta barato
+Total : 25019.5

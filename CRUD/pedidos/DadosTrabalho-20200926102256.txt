@@ -1,0 +1,8 @@
+PRECO	BEBIDA
+11,30	Bolo de carne vegano
+13,50	Bife de alcatra
+11,30	Bolo de carne vegano
+6,50	Fanta Uva
+33,00	Tannat Uruguaio
+Observacao : nao
+Total : 75.6

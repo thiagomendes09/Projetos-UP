@@ -1,0 +1,4 @@
+PRECO	BEBIDA
+12,30	Espaguetini integral ao alho e óleo
+Observacao : com gelo
+Total : 12.3
