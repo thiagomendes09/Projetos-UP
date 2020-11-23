@@ -1,0 +1,62 @@
+br/edu/up/adocao/reporsitory/AnimalRepository.java
+ br.edu.up.adocao.reporsitory.AnimalRepository
+br/edu/up/adocao/reporsitory/AnimalRepositoryJpa.java
+ br.edu.up.adocao.reporsitory.AnimalRepositoryJpa
+br/edu/up/adocao/service/AdotantesServiceImpl.java
+ br.edu.up.adocao.service.AdotantesServiceImpl
+br/edu/up/adocao/controller/AdocaoControllerImpl.java
+ br.edu.up.adocao.controller.AdocaoControllerImpl
+br/edu/up/adocao/persistance/PersistenceUtil.java
+ br.edu.up.adocao.persistance.PersistenceUtil
+br/edu/up/adocao/service/DoacaoService.java
+ br.edu.up.adocao.service.DoacaoService
+br/edu/up/adocao/service/AnimalService.java
+ br.edu.up.adocao.service.AnimalService
+br/edu/up/adocao/reporsitory/AdotanteRepository.java
+ br.edu.up.adocao.reporsitory.AdotanteRepository
+br/edu/up/adocao/controller/DoacoesControllerImpl.java
+ br.edu.up.adocao.controller.DoacoesControllerImpl
+br/edu/up/adocao/model/Adocao.java
+ br.edu.up.adocao.model.Adocao
+br/edu/up/adocao/reporsitory/AdotanteRepositoryJpa.java
+ br.edu.up.adocao.reporsitory.AdotanteRepositoryJpa
+br/edu/up/adocao/model/Doacao.java
+ br.edu.up.adocao.model.Doacao
+br/edu/up/adocao/controller/AdocaoController.java
+ br.edu.up.adocao.controller.AdocaoController
+br/edu/up/adocao/model/Animal.java
+ br.edu.up.adocao.model.Animal
+br/edu/up/adocao/service/AnimalServiceImpl.java
+ br.edu.up.adocao.service.AnimalServiceImpl
+br/edu/up/adocao/controller/DoacoesController.java
+ br.edu.up.adocao.controller.DoacoesController
+br/edu/up/adocao/controller/AdotantesController.java
+ br.edu.up.adocao.controller.AdotantesController
+br/edu/up/adocao/service/AdotanteService.java
+ br.edu.up.adocao.service.AdotanteService
+br/edu/up/adocao/service/AdocaoService.java
+ br.edu.up.adocao.service.AdocaoService
+br/edu/up/adocao/controller/AdotantesControllerImpl.java
+ br.edu.up.adocao.controller.AdotantesControllerImpl
+br/edu/up/adocao/cli/Prompt.java
+ br.edu.up.adocao.cli.Prompt
+br/edu/up/adocao/controller/AnimalControllerImpl.java
+ br.edu.up.adocao.controller.AnimalControllerImpl
+br/edu/up/adocao/controller/AnimalController.java
+ br.edu.up.adocao.controller.AnimalController
+br/edu/up/adocao/model/Adotante.java
+ br.edu.up.adocao.model.Adotante
+br/edu/up/adocao/reporsitory/AdocaoRepositoryJpa.java
+ br.edu.up.adocao.reporsitory.AdocaoRepositoryJpa
+br/edu/up/adocao/reporsitory/AdocaoRepository.java
+ br.edu.up.adocao.reporsitory.AdocaoRepository
+br/edu/up/adocao/service/AdocaoServiceImpl.java
+ br.edu.up.adocao.service.AdocaoServiceImpl
+br/edu/up/adocao/App.java
+ br.edu.up.adocao.App
+br/edu/up/adocao/reporsitory/DoacaoRepository.java
+ br.edu.up.adocao.reporsitory.DoacaoRepository
+br/edu/up/adocao/service/DoacaoServiceImpl.java
+ br.edu.up.adocao.service.DoacaoServiceImpl
+br/edu/up/adocao/reporsitory/DoacaoRepositoryJpa.java
+ br.edu.up.adocao.reporsitory.DoacaoRepositoryJpa
